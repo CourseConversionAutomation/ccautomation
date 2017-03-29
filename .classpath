@@ -2,10 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/Selenium/poi_jar/dom4j-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/Selenium/poi_jar/poi-3.6-20091214.jar"/>
-	<classpathentry kind="lib" path="D:/Selenium/poi_jar/poi-ooxml-3.6-20091214.jar"/>
-	<classpathentry kind="lib" path="D:/Selenium/poi_jar/poi-ooxml-schemas-3.6-20091214.jar"/>
-	<classpathentry kind="lib" path="D:/Selenium/poi_jar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-bin-3.15-20160924 (1)/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-bin-3.15-20160924 (1)/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-bin-3.15-20160924 (1)/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/poi-bin-3.15-20160924 (1)/poi-3.15/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

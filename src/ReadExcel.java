@@ -18,7 +18,6 @@ public class ReadExcel {
 		Sheet sheet = wb.getSheetAt(0);
 		Row row;
 		Cell cell;
-
 		Iterator rows = sheet.rowIterator();
 
 		while (rows.hasNext()) {
